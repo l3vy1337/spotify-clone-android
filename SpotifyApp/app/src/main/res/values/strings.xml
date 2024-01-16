@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SpotifyApp</string>
+    <string name="CLIENT_ID">YOUR_CLIENT_ID</string>
+    <string name="CLIENT_SECRET">YOUR_CLIENT_SECRET</string>
+    <string name="REDIRECT_URI">YOUR_REDIRECT_URI</string>
+    <string name="shared_pref_key">Spotify</string>
+</resources>
